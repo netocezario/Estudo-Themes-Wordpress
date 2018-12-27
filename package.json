@@ -1,0 +1,22 @@
+{
+  "name": "estudo-themes-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodyneto/Estudo-Themes-Wordpress.git"
+  },
+  "author": "Geraldo Cezario Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodyneto/Estudo-Themes-Wordpress/issues"
+  },
+  "homepage": "https://github.com/woodyneto/Estudo-Themes-Wordpress#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
